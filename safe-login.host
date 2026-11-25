@@ -1,0 +1,74 @@
+# ==========================================
+# WILDCARD ROOT DOMAINS (Login-Safe Backup)
+# ==========================================
+google-analytics.com
+googletagmanager.com
+googletagservices.com
+googlesyndication.com
+doubleclick.net
+app-measurement.com
+crashlytics.com
+sentry.io
+adfast.io
+adfast.net
+adfast.com
+fastad.io
+appmetrica.yandex.net
+yandexadexchange.net
+adfox.ru
+appsflyer.com
+adjust.com
+adjust.net.in
+adjust.world
+mixpanel.com
+amplitude.com
+braze.com
+onesignal.com
+split.io
+unityads.unity3d.com
+applovin.com
+ironsrc.com
+vungle.com
+mintegral.com
+pangle.io
+inmobi.com
+chartboost.com
+tapjoy.com
+flurry.com
+branch.io
+bugsnag.com
+datadoghq.com
+newrelic.com
+segment.io
+segment.com
+
+# ==========================================
+# EXACT / SUBDOMAIN-ONLY ENTRIES (Login-Safe)
+# ==========================================
+
+# Google & Firebase Telemetry Subdomains (fcm.googleapis.com excluded)
+clientmetrics-pa.googleapis.com
+metrics.gstatic.com
+play-fe.googleapis.com
+connectivitycheck.gstatic.com
+crashlyticsreports-pa.googleapis.com
+firebaselogging.googleapis.com
+firebaselogging-pa.googleapis.com
+firebaseremoteconfig.googleapis.com
+firebaseinstallations.googleapis.com
+
+# Yandex Telemetry Subdomains
+startup.mobile.yandex.net
+mc.yandex.ru
+an.yandex.ru
+bs.yandex.ru
+clck.yandex.ru
+
+# Facebook / Meta Telemetry Subdomains (graph.facebook.com excluded)
+an.facebook.com
+analytics.facebook.com
+pixel.facebook.com
+connect.facebook.net
+edge-mqtt.facebook.com
+mqtt-mini.facebook.com
+b-graph.facebook.com
